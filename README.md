@@ -5,7 +5,7 @@
   <!-- Typing Name Banner -->
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=50&center=true&vCenter=true&width=600&height=100&color=0077B5&lines=Shubhrajyoti+Dhar" alt="Typing Animation"/>
   
-  <h3>System Architect & Data Engineer</h3>
+  <h3>AI Systems Engineer / Machine Learning Engineer</h3>
   <p>Exploring Retrieval-Augmented Generation (RAG) pipelines, query transformation, and data privacy.</p>
 
   <!-- Social Badges -->
