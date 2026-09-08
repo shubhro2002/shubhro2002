@@ -38,7 +38,7 @@ I am a systems designer focused on the intersection of generative AI, scalable a
 <p>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="FAISS" />
 </p>
 
 **Architecture & Tools**
@@ -49,20 +49,3 @@ I am a systems designer focused on the intersection of generative AI, scalable a
 </p>
 
 ---
-
-### 📊 GitHub Analytics
-
-*A real-time overview of my open-source contributions and primary languages.*
-
-<div align="center">
-  <!-- Stats and Top Languages Cards side-by-side -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" width="48%" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <!-- GitHub Streak Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
