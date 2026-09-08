@@ -1,4 +1,7 @@
 <div align="center">
+
+  <img src="Assets/wuwa_shorekeeper.jpg" alt="Profile Banner" width="100%" style="border-radius: 15px; margin-bottom: 20px;"/>
+  
   <!-- Typing Name Banner -->
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=50&center=true&vCenter=true&width=600&height=100&color=0077B5&lines=Shubhrajyoti+Dhar" alt="Typing Animation"/>
   
@@ -12,7 +15,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 I am a systems designer focused on the intersection of generative AI, scalable architecture, and data security. My work revolves around making large language models more accurate, efficient, and safe for enterprise environments. 
 
@@ -50,7 +53,7 @@ I am a systems designer focused on the intersection of generative AI, scalable a
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 - **[Agentic Podcast Studio](https://github.com/shubhro2002/Agentic-Podcast-Studio):** A multi-agent system leveraging hierarchical retrieval to synthesize complex research papers into audio-ready formats.
 - **[Corrective RAG (CRAG) System](https://github.com/shubhro2002/Corrective-RAG):** An enterprise-grade Retrieval-Augmented Generation pipeline built for secure corporate data querying under strict hardware constraints.
