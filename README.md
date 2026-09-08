@@ -1,9 +1,9 @@
 <div align="center">
-  <!-- Dynamic Waving Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there,%20I'm%20Shubhrajyoti%20Dhar&fontSize=50&fontAlignY=38&animation=twinkling" alt="Header Banner"/>
+  <!-- Typing Name Banner -->
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=50&center=true&vCenter=true&width=600&height=100&color=0077B5&lines=Shubhrajyoti+Dhar" alt="Typing Animation"/>
   
-  <h3>Data Privacy & LLM System Architect</h3>
-  <p>Building scalable Retrieval-Augmented Generation (RAG) pipelines and secure AI infrastructures.</p>
+  <h3>System Architect & Data Engineer</h3>
+  <p>Exploring Retrieval-Augmented Generation (RAG) pipelines, query transformation, and data privacy.</p>
 
   <!-- Social Badges -->
   <a href="https://linkedin.com/in/shubhrajyoti-dhar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
