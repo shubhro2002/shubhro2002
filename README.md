@@ -53,5 +53,5 @@ I am a systems designer focused on the intersection of generative AI, scalable a
 ### 🚀 Featured Projects
 
 - **[Agentic Podcast Studio](https://github.com/shubhro2002/Agentic-Podcast-Studio.git):** A multi-agent system leveraging hierarchical retrieval to synthesize complex research papers into audio-ready formats.
-- **[Corrective RAG (CRAG) System]([Link-to-repo](https://github.com/shubhro2002/Corrective-RAG.git)):** An enterprise-grade Retrieval-Augmented Generation pipeline built for secure corporate data querying under strict hardware constraints.
-- **[VAE Anomaly Detection Engine]([Link-to-repo](https://github.com/shubhro2002/Unsupervised-Anomaly-Detection-in-Suspicious-Web-Traffic-Using-Autoencoders.git)):** A TensorFlow-based Variational Autoencoder (VAE) designed for robust anomaly detection.
+- **[Corrective RAG (CRAG) System]([Link-to-repo](https://github.com/shubhro2002/Corrective-RAG.git):** An enterprise-grade Retrieval-Augmented Generation pipeline built for secure corporate data querying under strict hardware constraints.
+- **[VAE Anomaly Detection Engine]([Link-to-repo](https://github.com/shubhro2002/Unsupervised-Anomaly-Detection-in-Suspicious-Web-Traffic-Using-Autoencoders.git):** A TensorFlow-based Variational Autoencoder (VAE) designed for robust anomaly detection.
