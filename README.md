@@ -65,3 +65,6 @@ I am a systems designer focused on the intersection of generative AI, scalable a
 <img width="100%" src="https://raw.githubusercontent.com/Prayag-X/Prayag-X/output/github-snake.svg?v=2" alt="contribution snake" />
 
 </div>
+<!-- ─────────────────────────────  FOOTER  ───────────────────────────── -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:4169E1,100:8A2BE2&height=120&section=footer" alt="footer"/>
