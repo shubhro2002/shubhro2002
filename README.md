@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm [Your Name] 👋
 
-<!--
-**shubhro2002/shubhro2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer focusing on Large Language Model system design and advanced AI architectures. 
 
-Here are some ideas to get you started:
+### 🔭 What I'm currently working on
+- Designing scalable **Retrieval-Augmented Generation (RAG)** pipelines.
+- Experimenting with advanced query transformation techniques to improve search accuracy.
+- Researching and implementing data privacy guardrails within LLM workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+- **Languages:** Python, SQL, [Add others]
+- **AI/ML:** LangChain, LlamaIndex, Vector Databases (Pinecone, Qdrant)
+- **Architecture:** System Design, Cloud Deployments 
+
+### 📫 Let's Connect
+- LinkedIn: [Link to your profile]
+- Twitter/X: [Link to your profile]
+- Portfolio/Blog: [Link to your website]
