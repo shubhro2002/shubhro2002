@@ -61,9 +61,7 @@ I am a systems designer focused on the intersection of generative AI, scalable a
 <!-- ─────────────────────────────  CONTRIBUTION SNAKE  ───────────────────────────── -->
 
 <div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/Prayag-X/Prayag-X/output/github-snake.svg?v=2" alt="contribution snake" />
-
+  <img width="100%" src="https://raw.githubusercontent.com/shubhro2002/shubhro2002/output/github-contribution-grid-snake.svg" alt="contribution snake" />
 </div>
 <!-- ─────────────────────────────  FOOTER  ───────────────────────────── -->
 
