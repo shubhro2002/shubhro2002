@@ -33,6 +33,7 @@ I am a systems designer focused on the intersection of generative AI, scalable a
   <img src="https://img.shields.io/badge/Python-0077B5?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/PyTorch-0077B5?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/LangChain-0077B5?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-0077B5?style=for-the-badge&logo=codeforces&logoColor=white" alt="LangGraph" />
   <img src="https://img.shields.io/badge/Hugging_Face-0077B5?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face" />
   <img src="https://img.shields.io/badge/OpenAI-0077B5?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
 </p>
@@ -49,6 +50,7 @@ I am a systems designer focused on the intersection of generative AI, scalable a
   <img src="https://img.shields.io/badge/FastAPI-0077B5?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Docker-0077B5?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Linux-0077B5?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+  <img src="https://img.shields.io/badge/LocalStack-0077B5?style=for-the-badge&logo=localstack&logoColor=white" alt="LocalStack" />
 </p>
 
 ---
@@ -56,6 +58,7 @@ I am a systems designer focused on the intersection of generative AI, scalable a
 ### Featured Projects
 
 - **[Agentic Podcast Studio](https://github.com/shubhro2002/Agentic-Podcast-Studio):** A multi-agent system leveraging hierarchical retrieval to synthesize complex research papers into audio-ready formats.
+- **[SecOps Auto-Remediator](https://github.com/shubhro2002/Remedy-Agent)):** An autonomous cloud remediation agent utilizing LangGraph state machines, custom Model Context Protocol (MCP) tools, LocalStack AWS simulations, and LLMOps tracing.
 - **[Corrective RAG (CRAG) System](https://github.com/shubhro2002/Corrective-RAG):** An enterprise-grade Retrieval-Augmented Generation pipeline built for secure corporate data querying under strict hardware constraints.
 - **[VAE Anomaly Detection Engine](https://github.com/shubhro2002/Unsupervised-Anomaly-Detection-in-Suspicious-Web-Traffic-Using-Autoencoders):** A TensorFlow-based Variational Autoencoder (VAE) designed for robust anomaly detection.
 
